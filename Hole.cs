@@ -1,4 +1,7 @@
-﻿using System.Collections;
+//学習内容:①位置ベクトルについて
+//①transform.positionをVector型変数に代入すると位置ベクトルとして扱える。それを利用してオブジェクト→オブジェクトというベクトルを計算できる。
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
